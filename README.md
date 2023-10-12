@@ -4,16 +4,16 @@
 
 The above image reprerents the architecture diagram for the DevOps project. A more detailed review of this architecture can be found in the video submitted alongside this project. These are the links to access the applications live:
 
-Angular App => `https://frontend.ajim.dev`
+`Angular App` => https://frontend.ajim.dev
 
-Laravel App => `https://backend.ajim.dev`
+`Laravel App` => https://backend.ajim.dev
 
 
 Also, each of the applications have their individual repositries that can all be accessed her:
 
-Angular Repo => `https://github.com/ajimbong/demo-frontend-devops`
+`Angular Repo` => https://github.com/ajimbong/demo-frontend-devops
 
-Laravel Repo => `https://github.com/ajimbong/demo-backend-devops`
+`Laravel Repo` => https://github.com/ajimbong/demo-backend-devops
 
 
 ### Before/After Results From Running the CI/CD Pipeline
